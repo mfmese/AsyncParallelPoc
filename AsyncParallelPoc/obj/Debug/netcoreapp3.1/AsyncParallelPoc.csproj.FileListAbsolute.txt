@@ -1,0 +1,13 @@
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.exe
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.deps.json
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.runtimeconfig.json
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.runtimeconfig.dev.json
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.dll
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\bin\Debug\netcoreapp3.1\AsyncParallelPoc.pdb
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.dll
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.pdb
+C:\Users\Mehmet\source\repos\AsyncParallelPoc\AsyncParallelPoc\obj\Debug\netcoreapp3.1\AsyncParallelPoc.genruntimeconfig.cache
